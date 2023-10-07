@@ -16,6 +16,7 @@
 		FF5A59152AC7541000F9C858 /* BerlinClock2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5A59142AC7541000F9C858 /* BerlinClock2Tests.swift */; };
 		FF5A591F2AC7541000F9C858 /* BerlinClock2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5A591E2AC7541000F9C858 /* BerlinClock2UITests.swift */; };
 		FF5A59212AC7541000F9C858 /* BerlinClock2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5A59202AC7541000F9C858 /* BerlinClock2UITestsLaunchTests.swift */; };
+		FF6FE1BF2ACFD4AF0053CC1A /* CustomShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF6FE1BE2ACFD4AF0053CC1A /* CustomShapes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF5A591A2AC7541000F9C858 /* BerlinClock2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BerlinClock2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF5A591E2AC7541000F9C858 /* BerlinClock2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerlinClock2UITests.swift; sourceTree = "<group>"; };
 		FF5A59202AC7541000F9C858 /* BerlinClock2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerlinClock2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FF6FE1BE2ACFD4AF0053CC1A /* CustomShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				FF5A59062AC7540F00F9C858 /* Assets.xcassets */,
 				FF5A59082AC7540F00F9C858 /* LaunchScreen.storyboard */,
 				FF5A590B2AC7540F00F9C858 /* Info.plist */,
+				FF6FE1BE2ACFD4AF0053CC1A /* CustomShapes.swift */,
 			);
 			path = BerlinClock2;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF6FE1BF2ACFD4AF0053CC1A /* CustomShapes.swift in Sources */,
 				FF5A59022AC7540A00F9C858 /* ViewController.swift in Sources */,
 				FF5A58FE2AC7540A00F9C858 /* AppDelegate.swift in Sources */,
 				FF5A59002AC7540A00F9C858 /* SceneDelegate.swift in Sources */,
